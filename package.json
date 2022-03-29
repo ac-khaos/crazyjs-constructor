@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "crazyjs-constructor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:seegeeac/crazyjs-constructor.git",
+  "author": "seegeeac",
+  "license": "MIT",
+  "bin": {
+    "crazyjs-create": "index.js"
+  },
+  "dependencies": {
+  }
+}
